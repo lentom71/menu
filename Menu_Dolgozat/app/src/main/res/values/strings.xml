@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="elso_activity">First activity</string>
+    <string name="koverkezo_activity">Next activity</string>
+    <string name="mentes">Save</string>
+    <string name="informacio">Information</string>
+    <string name="kilepes">Exit</string>
+</resources>
